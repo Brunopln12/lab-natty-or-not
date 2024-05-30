@@ -20,22 +20,27 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 ### Template
 
 ```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# Tecnoverso: O Poder de Programar além dos Limites
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Projeto com o objetivo de gerar um podcast utilizando ferramentas de IA através de prompts mais trabalhado.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+- [ChatGPT](https://chat.openai.com/) 
+- [Copilot](https://copilot.microsoft.com/)
+- [ElevenLabs](https://beta.elevenlabs.io/)
+- [Capcut](https://www.capcut.com/pt-br/)
+
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+- Roteiro gerado via chatgpt
+- Audio gerado pela elevenLabs
+- Copilot Para gerar capas
+- Capcut para tratar aúdio e adicionar sons de fundo
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+https://github.com/Brunopln12/prompts-for-podcast-generate-by-ia
 
-## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
 ```
 
 ### Exemplos e Insigths
